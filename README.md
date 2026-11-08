@@ -86,8 +86,8 @@ AT+RX
 | Arduino GND | Relay GND |
 | Arduino 5V | Relay VIN |
 | Relay NO | Power +ve |
-| Relay COM | Heater 1 |
-| Power -ve | Heater 2 |
+| Relay COM | Heater point 1 |
+| Power -ve | Heater point 2 |
 | Arduino D11 | Red LED +ve |
 | Arduino GND | Red LED -ve |
 | Arduino D10 | Green LED +ve |
