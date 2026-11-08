@@ -115,4 +115,6 @@ For example `AT+C001` (for the channel) and `AT+FU3` (for the mode) must me the 
 
 Make sure baud rate is set to **9600** on both modules, using the `AT+B9600` command.
 
+***WARNING: ENSURE THAT THE HEATING ELEMENT IS SITUATED FURTHER AWAY FROM THE OTHER COMPONENTS, TO ENSURE THAT THEY REMAIN SAFE.**
+
 Enjoy detonating your fireworks and stay safe!
