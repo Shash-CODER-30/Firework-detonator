@@ -8,6 +8,8 @@ For both the controller and detonator, any ATMEGA328P Arduino board (such as the
 
 For the controller, the source code is at `Firework_detonator_controller.ino`.
 
+Make sure the library **LiquidCrystal I2C** by **Frank de Brabander** is installed in the Arduino IDE, for the LCD to work.
+
 ### COMPONENTS NEEDED
 
 - Arduino
